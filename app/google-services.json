@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "921974826097",
+    "firebase_url": "https://facereco-8a610.firebaseio.com",
+    "project_id": "facereco-8a610",
+    "storage_bucket": "facereco-8a610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921974826097:android:5ae6bef3689457b8c8a7d0",
+        "android_client_info": {
+          "package_name": "com.ibnuputra.facerecofirebaseml"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "921974826097-qiodhsacq4nv6bp0q17ur1a9ul6pmsq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscwM9Cn3QHQ61auNPPFB3QhyosFigdLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "921974826097-qiodhsacq4nv6bp0q17ur1a9ul6pmsq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
